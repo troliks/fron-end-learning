@@ -1,0 +1,18 @@
+html {
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+body {
+    margin:0 ;
+    background-color: #484545;
+}
+
+.main-container {
+    box-shadow: 0 0 10px rgb(0 0 0 / 40%);
+    background-color: rgb(122, 149, 228);
+    margin: 5rem auto;
+    width: 1000px;
+}
+
